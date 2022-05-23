@@ -1,0 +1,31 @@
+.image {
+    width: 30px;
+}
+
+.delete-btn {
+    background-color: rgb(208, 2, 2);
+    color: white;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+.addItem-btn {
+    margin-bottom: 150px;
+}
+
+.addItem-btn a {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+
+}
+
+.inventory-title {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: azure;
+    border-radius: 50%;
+
+}
